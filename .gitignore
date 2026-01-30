@@ -1,0 +1,11 @@
+# Dependency directories
+node_modules/
+.agents/
+.gemini/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# User data / Scripts
+*.log
